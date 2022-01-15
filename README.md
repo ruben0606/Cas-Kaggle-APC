@@ -1,5 +1,5 @@
 # Pràctica Kaggle APC UAB 2021-22
-### Nom: ***** Rubén Gasque
+### Nom: Rubén Gasque
 ### DATASET: 
 
 ### URL: [kaggle](https://www.kaggle.com/benfattori/league-of-legends-diamond-games-first-15-minutes/tasks?taskId=154)

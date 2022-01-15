@@ -1,7 +1,9 @@
 # Pràctica Kaggle APC UAB 2021-22
 ### Nom: ***** Rubén Gasque
-### DATASET: *****
+### DATASET: 
+
 ### URL: [kaggle](https://www.kaggle.com/benfattori/league-of-legends-diamond-games-first-15-minutes/tasks?taskId=154)
+
 ## Resum
 El dataset tracta dades obtingudes en els primers 15 minuts d'una partida del league of legends. En total tenim 19 atributs i 48651 files.
 
@@ -16,6 +18,7 @@ Abans d'entrenar el model hem hagut d'estudiar les dades i ens hem adonat que hi
 També hi havien 2 atributs que representaven la quantitat de dracs assasinats que hem vist com eren errònis ja que tots els seus valors eren 0 i els hagut d'eliminar.
 ### Model
 | Decision Tree | criterion='entropy', max_depth=6, splitter='best' | Score: 77.44 % | 
+
 | KNN | n_neighbors=10, weights='uniform', metric='manhattan' | Score: 75.25 % | 
 
 ## Conclusions
